@@ -1,0 +1,14 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "snowy=false": [
+            { "model": "grass_1", "weight": 100 },
+            { "model": "grass_2", "weight": 100 },
+            { "model": "grass_3", "weight": 100 },
+            { "model": "grass_4", "weight": 100 },
+            { "model": "grass_5", "weight": 100 }
+           
+        ],
+        "snowy=true":  { "model": "grass_snowed" }
+    }
+}
